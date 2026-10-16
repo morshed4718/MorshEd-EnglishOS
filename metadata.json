@@ -1,0 +1,8 @@
+{
+  "name": "MorshEd EnglishOS",
+  "description": "AI-powered English learning and speaking practice web application for Bengali speakers.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
